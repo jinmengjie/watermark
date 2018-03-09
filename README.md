@@ -35,7 +35,7 @@
 
 #### Demo
 
-demo源码详见example目录
+demo源码详见`example`目录
 
 ```
     npm install
