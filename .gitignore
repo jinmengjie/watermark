@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+.vscode
+
+dist/
+reporters
+node_modules/
+example/node_modules/
+example/dist/
+example/package-lock.json
+npm-debug.log
+*.log
